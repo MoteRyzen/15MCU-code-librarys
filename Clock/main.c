@@ -2,12 +2,6 @@
 #include "IO_Init.h"
 #include "LCD1602.H"
 #include "Init_config.h"
-//#include "Delay.h"
-//#include "Button.h"
-//#include "SMG.h"
-//#include "EEPROM.h"
-//#include "HC06_BT.h"
-//#include "Built_In_ADC.h"
 #include "key.h"
 #include "Clock.h"
 
